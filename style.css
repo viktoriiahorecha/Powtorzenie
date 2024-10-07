@@ -1,0 +1,39 @@
+table,th,tr,td {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 30%;
+    height: 30px;
+    text-align: center;
+}
+th:hover{
+    background-color: rgb(192, 182, 252);
+    color: white;
+}
+td:hover{
+    background-color: rgb(192, 182, 252);
+    color: white;
+}
+tr:hover{
+    background-color: rgb(192, 182, 252);
+    color: white;
+}
+
+#two {
+    padding: 10px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+body {
+    background-color: rgb(182, 238, 252);
+}
+
+button:hover {
+    background-color: rgb(192, 182, 252);
+    color: white;
+}
+
+img {
+    padding: 20px;
+    border-radius: 40px;
+}
